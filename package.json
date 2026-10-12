@@ -1,0 +1,9 @@
+{
+  "name": "snoopios-ci-test",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Throwaway repository for Snoopios connector tests.",
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
